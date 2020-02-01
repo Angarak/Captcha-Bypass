@@ -1,6 +1,8 @@
 # Captcha-Bypass
+
+Captcha bypassing helps you to solve CAPTCHA. All you need to do is implement this API, pass the code and  your CAPTCHAs and It’ll return the text. It’s that easy!
 A captcha solution is mostly utilized for avoid bots and ensure that the user behind the app is a real human.
-I have created this model to by-pass the captcha and hence saving the time.
-----------------------DISCLAIMER--------------------
-I have done this bypassing on ssc website, its for checking model accuracy and was done in a supervised manner at aai group at C-DAC. 
+
+****Please note that our services should be used only for research projects and any illegal use of our services is strictly prohibited.*** 
+
 
